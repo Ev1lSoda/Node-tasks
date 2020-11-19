@@ -1,0 +1,10 @@
+{
+  "data": [
+    { "user": "John", "rating": 20, "disabled": false },
+    { "user": "Bob", "rating": 21, "disabled": false },
+    { "user": "Mike", "rating": 14, "disabled": false },
+    { "user": "Mike", "rating": 54, "disabled": false },
+    { "user": "Greg", "rating": 25, "disabled": true }
+  ],
+  "condition": { "exclude": [{ "disabled": true }], "sort_by": ["user"] }
+}

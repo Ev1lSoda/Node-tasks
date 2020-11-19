@@ -1,0 +1,4 @@
+[
+  { "from": "yd", "to": "km", "howTo": 0.0009144 },
+  { "from": "m", "to": "mm", "howTo": 1000 }
+]
